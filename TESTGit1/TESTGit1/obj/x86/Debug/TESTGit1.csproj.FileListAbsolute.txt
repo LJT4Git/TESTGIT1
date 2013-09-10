@@ -1,0 +1,9 @@
+F:\git\TESTGIT1\TESTGit1\TESTGit1\bin\Debug\TESTGit1.exe
+F:\git\TESTGIT1\TESTGit1\TESTGit1\bin\Debug\TESTGit1.pdb
+F:\git\TESTGIT1\TESTGit1\TESTGit1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\git\TESTGIT1\TESTGit1\TESTGit1\obj\x86\Debug\TESTGit1.Form1.resources
+F:\git\TESTGIT1\TESTGit1\TESTGit1\obj\x86\Debug\TESTGit1.Properties.Resources.resources
+F:\git\TESTGIT1\TESTGit1\TESTGit1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\git\TESTGIT1\TESTGit1\TESTGit1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\git\TESTGIT1\TESTGit1\TESTGit1\obj\x86\Debug\TESTGit1.exe
+F:\git\TESTGIT1\TESTGit1\TESTGit1\obj\x86\Debug\TESTGit1.pdb
