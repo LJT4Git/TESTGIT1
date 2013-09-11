@@ -7,3 +7,5 @@ F:\git\TESTGIT1\TESTGit1\TESTGit1\obj\x86\Debug\GenerateResource.read.1.tlog
 F:\git\TESTGIT1\TESTGit1\TESTGit1\obj\x86\Debug\GenerateResource.write.1.tlog
 F:\git\TESTGIT1\TESTGit1\TESTGit1\obj\x86\Debug\TESTGit1.exe
 F:\git\TESTGIT1\TESTGit1\TESTGit1\obj\x86\Debug\TESTGit1.pdb
+D:\GP\TESTGIT1\TESTGit1\TESTGit1\obj\x86\Debug\TESTGit1.exe
+D:\GP\TESTGIT1\TESTGit1\TESTGit1\obj\x86\Debug\TESTGit1.pdb
