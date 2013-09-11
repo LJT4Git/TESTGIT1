@@ -15,5 +15,10 @@ namespace TESTGit1
         {
             InitializeComponent();
         }
+
+        private void btn2_Click(object sender, EventArgs e)
+        {
+            lb1.Text = "hello world!";
+        }
     }
 }
